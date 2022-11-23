@@ -1,0 +1,13 @@
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\bin\Debug\netcoreapp3.1\9.35.exe
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\bin\Debug\netcoreapp3.1\9.35.deps.json
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\bin\Debug\netcoreapp3.1\9.35.runtimeconfig.json
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\bin\Debug\netcoreapp3.1\9.35.runtimeconfig.dev.json
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\bin\Debug\netcoreapp3.1\9.35.dll
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\bin\Debug\netcoreapp3.1\9.35.pdb
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\obj\Debug\netcoreapp3.1\9.35.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\obj\Debug\netcoreapp3.1\9.35.AssemblyInfoInputs.cache
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\obj\Debug\netcoreapp3.1\9.35.AssemblyInfo.cs
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\obj\Debug\netcoreapp3.1\9.35.csproj.CoreCompileInputs.cache
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\obj\Debug\netcoreapp3.1\9.35.dll
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\obj\Debug\netcoreapp3.1\9.35.pdb
+D:\Users\Abonent\Desktop\МДК У СЕРГЕИЧА\СБОРНГИКИ\ЛАБЫ\9.35\obj\Debug\netcoreapp3.1\9.35.genruntimeconfig.cache
